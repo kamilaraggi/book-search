@@ -46,8 +46,9 @@ const resolvers = {
                         { new: true }
                     );
     
-                    return updateBook;
+                    return User;
                 }
+                throw new AuthenticationError('You need to be logged in!');
             },
 
 
