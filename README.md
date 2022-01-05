@@ -30,3 +30,4 @@ THEN that book is deleted from my saved books list
 WHEN I click on the Logout button
 THEN I am logged out of the site and presented with a menu with the options Search for Books and Login/Signup and an input field to search for books and a submit button.
 
+![Captura de Tela 2022-01-04 às 15 05 46](https://user-images.githubusercontent.com/84299745/148145880-e1515e6a-fae6-4cf4-95c0-68929ec21a10.png)
